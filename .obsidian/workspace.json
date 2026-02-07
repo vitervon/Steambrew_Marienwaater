@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Steambrew/Charaktere/NPCs.md",
+                "file": "Steambrew/Charaktere/Spieler/Lorian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPCs"
+              "title": "Lorian"
             }
           }
         ]
@@ -196,17 +196,20 @@
   },
   "active": "9b2773f0e5b28407",
   "lastOpenFiles": [
+    "Steambrew/Charaktere/Spieler/Bilder/Clanklorian L-V2.png",
+    "Steambrew/Charaktere/Spieler/Bilder/Pasted image 20260207165148.png",
+    "Steambrew/Charaktere/Spieler/Lorian.md",
+    "Steambrew/Charaktere/Spieler/Löt Larry Langschwanz.md",
+    "Unbenannt 1.md",
+    "Unbenannt.md",
+    "TestDatei.md",
+    "testlukas.md",
     "Steambrew/Charaktere/NPCs.md",
     "Steambrew/Charaktere/Spieler/Pasted image 20260207165148.png",
-    "Steambrew/Charaktere/Spieler/Löt Larry Langschwanz.md",
     "Steambrew/Charaktere/Unbenannt 2.md",
     "Steambrew/Charaktere/Spieler",
     "Steambrew/Charaktere",
-    "testlukas.md",
-    "Unbenannt 1.md",
     "Steambrew/Unbenannt.md",
-    "TestDatei.md",
-    "Steambrew",
-    "Unbenannt.md"
+    "Steambrew"
   ]
 }
