@@ -9,4 +9,3 @@
 | Subklasse   |        |
 
 
-![[Larry (Martin).png]]
