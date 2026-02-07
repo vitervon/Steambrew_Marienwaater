@@ -1,1 +1,1 @@
-Archie
+Archimedes Venturi -> cooler Typ
