@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Steambrew/Charaktere/Spieler/Arc Eichenstein.md",
+                "file": "Steambrew/Charaktere/NPCs/Liste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arc Eichenstein"
+              "title": "Liste"
             }
           }
         ],
@@ -211,8 +211,9 @@
   },
   "active": "5da0de1a7ca71fad",
   "lastOpenFiles": [
-    "Steambrew/Charaktere/Spieler/Clanklorian L-V2.md",
     "Steambrew/Charaktere/Spieler/Arc Eichenstein.md",
+    "Steambrew/Charaktere/NPCs/Liste.md",
+    "Steambrew/Charaktere/Spieler/Clanklorian L-V2.md",
     "Steambrew/Charaktere/Spieler/Löt Larry Langschwanz.md",
     "Steambrew/Charaktere/Spieler/Bilder/Archie (Manuel).png",
     "Steambrew/Charaktere/Spieler/Archimedes Archie Venturi.md",
@@ -233,7 +234,6 @@
     "TestDatei.md",
     "Steambrew/Unbenannt.md",
     "Steambrew/Charaktere/NPCs/Bilder/Pasted image 20260207180326.png",
-    "Steambrew/Charaktere/NPCs/Liste.md",
     "Steambrew/Charaktere/NPCs/Bilder",
     "Steambrew/Charaktere/NPCs",
     "Steambrew/Charaktere/Spieler/Clanklorian LV-2.md",
