@@ -9,8 +9,4 @@
 | Subklasse   |        |
 
 
-
-
-
-
 ![[Simaag (Fabian).png]]

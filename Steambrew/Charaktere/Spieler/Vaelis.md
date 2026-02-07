@@ -1,10 +1,12 @@
+
 | Eigenschaft |        |
 | ----------- | ------ |
-| Spielername | Markus |
-| Rufname     | Arc    |
+| Spielername | Manuel |
+| Rufname     | Archie |
 | Community   |        |
 | Abstammung  |        |
 | Klasse      |        |
 | Subklasse   |        |
 
-![[Arc (Markus).png]]
+
+![[Vaelis (Domenik).png]]
