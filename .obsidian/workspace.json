@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "82d50e892d746f3e",
+        "id": "7fa8bb4aa6684649",
         "type": "tabs",
         "children": [
           {
-            "id": "9b2773f0e5b28407",
+            "id": "2fefb6e245cb83f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Steambrew/Charaktere/Spieler/Arc Eichenstein.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Arc Eichenstein"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 389.5
   },
   "right": {
     "id": "35e30ceeea5a3f7d",
@@ -194,32 +194,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b2773f0e5b28407",
+  "active": "2fefb6e245cb83f4",
   "lastOpenFiles": [
-    "Steambrew/Charaktere/Spieler/Clanklorian L-V2.md",
-    "Steambrew/Charaktere/Spieler/Löt Larry Langschwanz.md",
-    "Steambrew/Charaktere/Spieler/Arc Eichenstein.md",
     "Steambrew/Charaktere/Spieler/Bilder/Larry (Martin).png",
-    "Steambrew/Charaktere/Spieler/Bilder/Arc Eichenstein (Markus).png",
-    "Steambrew/Charaktere/Spieler/Bilder/Lorian (Lukas).png",
-    "Unbenannt 2.md",
+    "Steambrew/Charaktere/Spieler/Bilder/Vaelis (Domenik).png",
+    "Steambrew/Charaktere/Spieler/Arc Eichenstein.md",
+    "Steambrew/Charaktere/Spieler/Archimedes Archie Venturi.md",
+    "Steambrew/Charaktere/Spieler/Clanklorian L-V2.md",
+    "Steambrew/Charaktere/Spieler/Bilder/Archie (Manuel).png",
+    "Steambrew/Charaktere/Spieler/Bilder/Arc (Markus).png",
+    "Steambrew/Charaktere/Spieler/Bilder/Arc (Markus).png",
+    "Steambrew/Charaktere/Spieler/Löt Larry Langschwanz.md",
+    "Steambrew/Charaktere/Spieler/Simaag.md",
+    "Steambrew/Charaktere/Spieler/Vaelis.md",
     "Steambrew/Charaktere/NPCs/Liste.md",
+    "Steambrew/Charaktere/NPCs/Bilder/Katari.png",
     "Steambrew/Charaktere/NPCs/Bilder/Pasted image 20260207180326.png",
+    "Steambrew/Charaktere/Spieler/Arc Eckstein.md",
+    "Steambrew/Charaktere/Spieler/Bilder/Simaag (Fabian).png",
+    "Steambrew/Charaktere/Spieler/Lorian.md",
+    "Steambrew/Charaktere/Spieler/Bilder/Lorian (Lukas).png",
+    "Unbenannt 1.md",
+    "testlukas.md",
+    "TestDatei.md",
+    "Unbenannt 2.md",
+    "Steambrew/Charaktere/Spieler/Clanklorian LV-2.md",
+    "<<<.md",
+    "conflict-files-obsidian-git.md",
     "Steambrew/Charaktere/NPCs/Bilder",
     "Steambrew/Charaktere/NPCs",
-    "Steambrew/Charaktere/Spieler/Clanklorian LV-2.md",
-    "Steambrew/Charaktere/Spieler/Bilder/Pasted image 20260207165148.png",
-    "Steambrew/Charaktere/Spieler/Bilder/Clanklorian L-V2.png",
-    "Unbenannt 1.md",
-    "Unbenannt.md",
-    "TestDatei.md",
-    "testlukas.md",
-    "Steambrew/Charaktere/NPCs.md",
+    "Steambrew/Charaktere/Spieler/Bilder",
     "Steambrew/Charaktere/Spieler/Pasted image 20260207165148.png",
     "Steambrew/Charaktere/Unbenannt 2.md",
     "Steambrew/Charaktere/Spieler",
     "Steambrew/Charaktere",
-    "Steambrew/Unbenannt.md",
     "Steambrew"
   ]
 }
