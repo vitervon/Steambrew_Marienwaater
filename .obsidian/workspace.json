@@ -11,14 +11,14 @@
             "id": "9b2773f0e5b28407",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Steambrew/Charaktere/NPCs/Liste.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Liste"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 521.5
   },
   "right": {
     "id": "35e30ceeea5a3f7d",
@@ -196,17 +196,26 @@
   },
   "active": "9b2773f0e5b28407",
   "lastOpenFiles": [
+    "Steambrew/Charaktere/NPCs/Bilder/Pasted image 20260207180326.png",
+    "Steambrew/Charaktere/NPCs/Liste.md",
+    "Unbenannt 2.md",
+    "Steambrew/Charaktere/NPCs/Bilder",
+    "Unbenannt.md",
+    "Steambrew/Charaktere/NPCs",
+    "Steambrew/Charaktere/Spieler/Lorian.md",
     "Steambrew/Charaktere/Spieler/Löt Larry Langschwanz.md",
-    "Steambrew/Charaktere/NPCs.md",
+    "Steambrew/Charaktere/Spieler/Bilder/Pasted image 20260207165148.png",
+    "Steambrew/Charaktere/Spieler/Bilder/Clanklorian L-V2.png",
+    "Steambrew/Unbenannt.md",
+    "testlukas.md",
+    "Unbenannt 1.md",
+    "conflict-files-obsidian-git.md",
+    "TestDatei.md",
+    "Steambrew/Charaktere/Spieler/Bilder",
     "Steambrew/Charaktere/Spieler/Pasted image 20260207165148.png",
     "Steambrew/Charaktere/Unbenannt 2.md",
     "Steambrew/Charaktere/Spieler",
     "Steambrew/Charaktere",
-    "testlukas.md",
-    "Unbenannt 1.md",
-    "Steambrew/Unbenannt.md",
-    "TestDatei.md",
-    "Steambrew",
-    "Unbenannt.md"
+    "Steambrew"
   ]
 }
