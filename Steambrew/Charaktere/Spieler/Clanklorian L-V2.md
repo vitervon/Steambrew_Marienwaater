@@ -3,10 +3,10 @@
 | ----------- | --------- |
 | Spielername | Lukas     |
 | Rufname     | Lorian    |
-| Community   |           |
-| Abstammung  |           |
+| Community   | Seaborne  |
+| Abstammung  | Clank     |
 | Klasse      | Techniker |
-| Subklasse   | Bastler   |
+| Subklasse   | Ingenieur |
 
 
 ![[Lorian (Lukas).png]]
