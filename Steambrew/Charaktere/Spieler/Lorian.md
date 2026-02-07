@@ -1,4 +1,12 @@
 
+| Eigenschaft |           |
+| ----------- | --------- |
+| Spielername | Lukas     |
+| Rufname     | Lorian    |
+| Community   |           |
+| Abstammung  |           |
+| Klasse      | Techniker |
+| Subklasse   | Bastler   |
 
 
-![[Clanklorian L-V2.png]]
+![[Lorian (Lukas).png]]
